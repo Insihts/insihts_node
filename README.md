@@ -3,13 +3,13 @@
 ## Installation
 
 ```shell
-npm install @insihts/node
+npm install insihts
 ```
 
 ## Usage
 
 ```javascript
-import insihts from '@insihts/node';
+import insihts from 'insihts';
 
 insihts.init({
   websiteId: '50429a93-8479-4073-be80-d5d29c09c2ec', // Your website id
