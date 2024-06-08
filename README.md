@@ -1,4 +1,4 @@
-# @insihts/node
+# Insihts Node Client
 
 ## Installation
 
